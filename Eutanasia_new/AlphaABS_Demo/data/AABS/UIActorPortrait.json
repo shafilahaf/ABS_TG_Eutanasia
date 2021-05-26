@@ -1,0 +1,80 @@
+[
+    {
+        "position": [
+            8,
+            4
+        ],
+        "visible": true,
+        "backgroundImg": "ActorPortraitBackground",
+        "foregroundImg": "ActorPortraitForeground",
+        "maskImg": "ActorPortraitMask",
+        "useMask": true,
+        "flipFace": true,
+        "faceSize": 72
+    },
+    {
+        "position": [
+            442,
+            16
+        ],
+        "visible": true,
+        "backgroundImg": "EnemyPortraitBackground",
+        "foregroundImg": "EnemyPortraitForeground",
+        "maskImg": "EnemyPortraitMask",
+        "useMask": true,
+        "flipFace": false,
+        "faceSize": 54
+    },
+    {
+        "position": [
+            24,
+            108
+        ],
+        "visible": true,
+        "backgroundImg": "PetPortraitBackground",
+        "foregroundImg": "PetPortraitForeground",
+        "maskImg": "PetPortraitMask",
+        "useMask": true,
+        "flipFace": true,
+        "faceSize": 36
+    },
+    {
+        "position": [
+            0,
+            0
+        ],
+        "visible": true,
+        "backgroundImg": "PartyMemberPortraitBackground",
+        "foregroundImg": "PartyMemberPortraitForeground",
+        "maskImg": "PartyMemberPortraitMask",
+        "useMask": true,
+        "flipFace": true,
+        "faceSize": 56
+    },
+    {
+        "position": [
+            292,
+            16
+        ],
+        "visible": true,
+        "backgroundImg": "ExtraTargetBackground",
+        "foregroundImg": null,
+        "maskImg": "ExtraTargetMask",
+        "useMask": true,
+        "flipFace": true,
+        "faceSize": 56
+    },
+    {
+        "position": [
+            0,
+            0
+        ],
+        "visible": true,
+        "backgroundImg": null,
+        "foregroundImg": null,
+        "maskImg": null,
+        "useMask": false,
+        "flipFace": false,
+        "faceSize": 100
+    }
+]

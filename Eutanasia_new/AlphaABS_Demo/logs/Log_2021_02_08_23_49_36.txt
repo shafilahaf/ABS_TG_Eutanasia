@@ -1,0 +1,41 @@
+PHLoger
+Started
+----------
+Alpha ABS build
+1232
+----------
+Help and support
+https://discord.gg/8EE6PMv
+----------
+Patreon page
+https://www.patreon.com/KageDesu
+----------
+TypeError
+TypeError: AA.isABS is not a function
+    at Game_Map._.setup (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:25986:12)
+    at Game_Player.performTransfer (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:7480:22)
+    at Scene_Map.onMapLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:569:21)
+    at Scene_Map.onMapLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:3004:37)
+    at Scene_Map.onMapLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:32328:28)
+    at Scene_Map._.onMapLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:32696:24)
+    at Scene_Map.onMapLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:32851:38)
+    at Scene_Map._.onMapLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:44116:24)
+    at Scene_Map.isReady (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:561:14)
+    at Function.SceneManager.updateScene (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:2018:48)
+----------
+ERROR!
+Using AlphaABS [Build: 1232 ; on MV  1.6.1]
+----------
+ERROR!
+TypeError: AA.isABS is not a function
+    at Game_Map._.setup (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:25986:12)
+    at Game_Player.performTransfer (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:7480:22)
+    at Scene_Map.onMapLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:569:21)
+    at Scene_Map.onMapLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:3004:37)
+    at Scene_Map.onMapLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:32328:28)
+    at Scene_Map._.onMapLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:32696:24)
+    at Scene_Map.onMapLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:32851:38)
+    at Scene_Map._.onMapLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:44116:24)
+    at Scene_Map.isReady (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:561:14)
+    at Function.SceneManager.updateScene (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:2018:48)
+----------

@@ -1,0 +1,31 @@
+[
+    {
+        "id": "example",
+        "width": 0,
+        "height": 0,
+        "textSize": 16,
+        "background": 0,
+        "fontFace": null,
+        "text": "\\c[2]Example\\c[0]\ninfo!\\i[3]",
+        "isManualSize": false
+    },
+    {
+        "id": "example2",
+        "width": 340,
+        "height": 80,
+        "textSize": 14,
+        "background": 0,
+        "fontFace": "Acme",
+        "text": "\\c[5]Hello!\\c[0] Example with fixed window size",
+        "isManualSize": true
+    },
+    {
+        "id": "linkExample",
+        "width": 320,
+        "height": 140,
+        "textSize": 14,
+        "background": 4,
+        "text": "\\C[1]Magic Shard \\I[312]\\C[0]\n\\}Some cool and rare item...\nMagic shard used for....and etc.",
+        "isManualSize": true
+    }
+]
