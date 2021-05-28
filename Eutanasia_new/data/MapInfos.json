@@ -1,8 +1,8 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Worldmap","order":2,"parentId":0,"scrollX":2791.2,"scrollY":1069.2},
-{"id":2,"expanded":false,"name":"Nomad Camp","order":1,"parentId":0,"scrollX":973.1999999999999,"scrollY":1309.2},
-{"id":3,"expanded":false,"name":"Snow Castle","order":3,"parentId":1,"scrollX":994.8,"scrollY":1069.2},
+{"id":2,"expanded":false,"name":"Nomad Camp","order":1,"parentId":0,"scrollX":2184,"scrollY":1229.3333333333333},
+{"id":3,"expanded":false,"name":"Snow Castle","order":3,"parentId":1,"scrollX":2184,"scrollY":1229.3333333333333},
 {"id":4,"expanded":false,"name":"Castle 1F","order":4,"parentId":3,"scrollX":973.1999999999999,"scrollY":626.4},
 {"id":5,"expanded":false,"name":"Castle 2F","order":5,"parentId":3,"scrollX":994.8,"scrollY":549.6},
 {"id":6,"expanded":false,"name":"Snow Town","order":6,"parentId":1,"scrollX":973.1999999999999,"scrollY":880.8},
