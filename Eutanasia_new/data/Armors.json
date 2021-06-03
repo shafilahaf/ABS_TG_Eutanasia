@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"atypeId":3,"description":"Jubah healer/Cleric Level 1","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"-- Hero --","note":"","params":[0,0,0,15,0,10,0,0],"price":0},
-{"id":2,"atypeId":3,"description":"Basic pemula yang memberikan def sebesar 10.\nCocok untuk pemula yang ingin grinding.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Basic Armor","note":"","params":[0,0,0,10,0,0,0,0],"price":0},
+{"id":2,"atypeId":3,"description":"Basic pemula yang memberikan def \nsebesar 10.Cocok untuk pemula ","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Basic Armor","note":"<note desc>\nBasic pemula yang memberikan def \nsebesar 10.Cocok untuk pemula \nyang ingin grinding.\n</note desc>","params":[0,0,0,10,0,0,0,0],"price":0},
 {"id":3,"atypeId":4,"description":"","etypeId":4,"traits":[{"code":22,"dataId":5,"value":0.2}],"iconIndex":137,"name":"Rus Armor","note":"","params":[0,0,0,50,0,0,0,0],"price":800},
 {"id":4,"atypeId":1,"description":"","etypeId":4,"traits":[],"iconIndex":137,"name":"Brigandine Armor","note":"","params":[0,0,0,80,0,0,0,0],"price":1600},
 {"id":5,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
