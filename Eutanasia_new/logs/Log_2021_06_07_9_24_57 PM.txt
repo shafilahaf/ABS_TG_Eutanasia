@@ -1,0 +1,24 @@
+PHLoger
+Started
+----------
+Alpha ABS build
+1232
+----------
+Help and support
+https://discord.gg/8EE6PMv
+----------
+Patreon page
+https://www.patreon.com/KageDesu
+----------
+WARNING!
+XDev KDCore is loaded 2.5
+----------
+ERROR!
+Error: DreamX_RandomPrefixesSuffixes requires Yanfly Item Core
+    at Function.DataManager.loadDatabase (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/DreamX_RandomPrefixesSuffixes.js:359:19)
+    at Scene_Boot.create (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:350:17)
+    at Scene_Boot.create (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:3807:27)
+    at Function.SceneManager.changeScene (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:2005:25)
+    at Function.SceneManager.updateMain (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1982:18)
+    at Function.SceneManager.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1907:14)
+----------
