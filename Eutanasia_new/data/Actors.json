@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,29,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[{"code":33,"dataId":0,"value":30}],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"<xAnima:Harold>\n","profile":""},
-{"id":2,"battlerName":"Sven1_Battler","characterIndex":2,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sven","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,29,2,2,0],"faceIndex":0,"faceName":"Actor1","traits":[{"code":33,"dataId":0,"value":30}],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"<xAnima:Harold>\n","profile":""},
+{"id":2,"battlerName":"Sven1_Battler","characterIndex":2,"characterName":"Actor1","classId":2,"equips":[4,1,2,9,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sven","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Moana","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"Aria1_Battler","characterIndex":3,"characterName":"Actor2","classId":4,"equips":[5,0,2,3,4],"faceIndex":3,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Aria","nickname":"","note":"","profile":""}
 ]
