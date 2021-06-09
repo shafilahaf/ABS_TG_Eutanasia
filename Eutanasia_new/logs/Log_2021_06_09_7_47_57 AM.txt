@@ -1,0 +1,21 @@
+PHLoger
+Started
+----------
+Alpha ABS build
+1232
+----------
+Help and support
+https://discord.gg/8EE6PMv
+----------
+Patreon page
+https://www.patreon.com/KageDesu
+----------
+WARNING!
+XDev KDCore is loaded 2.5
+----------
+WARNING!
+TypeError: inRange.filter is not a function
+----------
+ERROR!
+TypeError: Cannot read property 'scrollType' of null
+----------

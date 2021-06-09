@@ -1,13 +1,13 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Worldmap","order":3,"parentId":0,"scrollX":1726,"scrollY":1764},
-{"id":2,"expanded":true,"name":"Nomad Camp","order":1,"parentId":0,"scrollX":1390.2857142857142,"scrollY":1129.7142857142856},
+{"id":2,"expanded":true,"name":"Nomad Camp","order":1,"parentId":0,"scrollX":1622,"scrollY":988},
 {"id":3,"expanded":false,"name":"Snow Castle","order":4,"parentId":1,"scrollX":1622,"scrollY":1268},
 {"id":4,"expanded":false,"name":"Castle 1F","order":5,"parentId":3,"scrollX":1622,"scrollY":988},
 {"id":5,"expanded":false,"name":"Castle 2F","order":6,"parentId":3,"scrollX":1638,"scrollY":932},
 {"id":6,"expanded":true,"name":"Snow Town","order":7,"parentId":1,"scrollX":720.8888888888889,"scrollY":721.7777777777778},
-{"id":7,"expanded":false,"name":"Weapon Shop","order":8,"parentId":6,"scrollX":2457,"scrollY":1383},
-{"id":8,"expanded":true,"name":"Item Shop","order":9,"parentId":6,"scrollX":2457,"scrollY":1383},
+{"id":7,"expanded":false,"name":"Weapon Shop","order":8,"parentId":6,"scrollX":1638,"scrollY":932},
+{"id":8,"expanded":true,"name":"Item Shop","order":9,"parentId":6,"scrollX":1638,"scrollY":932},
 {"id":9,"expanded":false,"name":"Armor Shop","order":10,"parentId":6,"scrollX":2457,"scrollY":1383},
 {"id":10,"expanded":false,"name":"House Ice","order":11,"parentId":6,"scrollX":1638,"scrollY":932},
 {"id":11,"expanded":false,"name":"Warehouse","order":12,"parentId":6,"scrollX":1638,"scrollY":932},
@@ -47,8 +47,8 @@ null,
 {"id":45,"expanded":false,"name":"Warehouse","order":47,"parentId":40,"scrollX":1638,"scrollY":932},
 {"id":46,"expanded":true,"name":"Hutan Hogwart - 1","order":48,"parentId":1,"scrollX":1638,"scrollY":932},
 {"id":47,"expanded":false,"name":"Hutan Hogwart - 2","order":49,"parentId":46,"scrollX":2457,"scrollY":1383},
-{"id":48,"expanded":true,"name":"Hutan Hogwart - 3","order":50,"parentId":46,"scrollX":2568,"scrollY":860},
+{"id":48,"expanded":true,"name":"Hutan Hogwart - 3","order":50,"parentId":46,"scrollX":2378,"scrollY":916},
 {"id":49,"expanded":false,"name":"Armor Shop","order":27,"parentId":16,"scrollX":1638,"scrollY":932},
 {"id":50,"expanded":false,"name":"Hogwart Dungeon","order":51,"parentId":48,"scrollX":3306,"scrollY":2288},
-{"id":51,"expanded":false,"name":"Test","order":2,"parentId":2,"scrollX":2184,"scrollY":1229.3333333333333}
+{"id":51,"expanded":false,"name":"Test","order":2,"parentId":2,"scrollX":1638,"scrollY":932}
 ]

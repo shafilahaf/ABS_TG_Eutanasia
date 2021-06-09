@@ -1,0 +1,38 @@
+PHLoger
+Started
+----------
+Alpha ABS build
+1232
+----------
+Help and support
+https://discord.gg/8EE6PMv
+----------
+Patreon page
+https://www.patreon.com/KageDesu
+----------
+WARNING!
+XDev KDCore is loaded 2.5
+----------
+Error
+Error: Failed to load: data/PKD_MapInventorySettings.json
+    at Function.DataManager.checkError (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:172:15)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:97:10)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:18438:39)
+    at Scene_Boot.isReady (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:374:28)
+    at Function.SceneManager.updateScene (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:2018:48)
+    at Function.SceneManager.updateMain (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1983:18)
+    at Function.SceneManager.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1907:14)
+----------
+ERROR!
+Using AlphaABS [Build: 1232 ; on MV  1.6.1]
+----------
+ERROR!
+Error: Failed to load: data/PKD_MapInventorySettings.json
+    at Function.DataManager.checkError (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:172:15)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:97:10)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:18438:39)
+    at Scene_Boot.isReady (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:374:28)
+    at Function.SceneManager.updateScene (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:2018:48)
+    at Function.SceneManager.updateMain (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1983:18)
+    at Function.SceneManager.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1907:14)
+----------
