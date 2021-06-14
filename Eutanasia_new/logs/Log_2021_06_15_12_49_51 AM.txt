@@ -1,0 +1,44 @@
+PHLoger
+Started
+----------
+Alpha ABS build
+1232
+----------
+Help and support
+https://discord.gg/8EE6PMv
+----------
+Patreon page
+https://www.patreon.com/KageDesu
+----------
+WARNING!
+XDev KDCore is loaded 2.5
+----------
+ReferenceError
+ReferenceError: $game is not defined
+    at eval (eval at Game_Interpreter.command111 (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:9307:24), <anonymous>:1:1)
+    at Game_Interpreter.command111 (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:9307:24)
+    at Game_Interpreter._.command111 (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:25793:27)
+    at Game_Interpreter.executeCommand (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:8930:34)
+    at Game_Interpreter.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:8838:19)
+    at Game_Map.updateInterpreter (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:6115:27)
+    at Game_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:6022:14)
+    at Scene_Map.updateMain (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:608:14)
+    at Scene_Map.updateMainMultiply (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:600:10)
+    at Scene_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:589:10)
+----------
+ERROR!
+Using AlphaABS [Build: 1232 ; on MV  1.6.1]
+----------
+ERROR!
+ReferenceError: $game is not defined
+    at eval (eval at Game_Interpreter.command111 (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:9307:24), <anonymous>:1:1)
+    at Game_Interpreter.command111 (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:9307:24)
+    at Game_Interpreter._.command111 (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:25793:27)
+    at Game_Interpreter.executeCommand (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:8930:34)
+    at Game_Interpreter.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:8838:19)
+    at Game_Map.updateInterpreter (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:6115:27)
+    at Game_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:6022:14)
+    at Scene_Map.updateMain (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:608:14)
+    at Scene_Map.updateMainMultiply (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:600:10)
+    at Scene_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:589:10)
+----------

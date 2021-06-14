@@ -1,0 +1,44 @@
+PHLoger
+Started
+----------
+Alpha ABS build
+1232
+----------
+Help and support
+https://discord.gg/8EE6PMv
+----------
+Patreon page
+https://www.patreon.com/KageDesu
+----------
+WARNING!
+XDev KDCore is loaded 2.5
+----------
+TypeError
+TypeError: Cannot read property 'iconIndex' of undefined
+    at Window_Message.Window_Base.escapeIconItem (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_MessageCore.js:825:35)
+    at Window_Message.<anonymous> (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_MessageCore.js:782:21)
+    at String.replace (<anonymous>)
+    at Window_Message.Window_Base.convertExtraEscapeCharacters (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_MessageCore.js:781:17)
+    at Window_Message.Window_Base.convertEscapeCharacters (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_MessageCore.js:709:17)
+    at Window_Message.convertEscapeCharacters (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_MessageCore.js:1299:58)
+    at Window_Message.startMessage (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_windows.js:4334:33)
+    at Window_Message.startMessage (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_MessageCore.js:1219:48)
+    at Window_Message.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_windows.js:4311:18)
+    at chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_core.js:7035:19
+----------
+ERROR!
+Using AlphaABS [Build: 1232 ; on MV  1.6.1]
+----------
+ERROR!
+TypeError: Cannot read property 'iconIndex' of undefined
+    at Window_Message.Window_Base.escapeIconItem (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_MessageCore.js:825:35)
+    at Window_Message.<anonymous> (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_MessageCore.js:782:21)
+    at String.replace (<anonymous>)
+    at Window_Message.Window_Base.convertExtraEscapeCharacters (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_MessageCore.js:781:17)
+    at Window_Message.Window_Base.convertEscapeCharacters (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_MessageCore.js:709:17)
+    at Window_Message.convertEscapeCharacters (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_MessageCore.js:1299:58)
+    at Window_Message.startMessage (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_windows.js:4334:33)
+    at Window_Message.startMessage (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_MessageCore.js:1219:48)
+    at Window_Message.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_windows.js:4311:18)
+    at chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_core.js:7035:19
+----------
