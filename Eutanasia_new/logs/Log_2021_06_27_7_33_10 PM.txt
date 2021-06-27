@@ -1,0 +1,44 @@
+PHLoger
+Started
+----------
+Alpha ABS build
+1232
+----------
+Help and support
+https://discord.gg/8EE6PMv
+----------
+Patreon page
+https://www.patreon.com/KageDesu
+----------
+WARNING!
+XDev KDCore is loaded 2.5
+----------
+SyntaxError
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Window_QuestData.getQuestDescription (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_QuestJournal.js:4055:15)
+    at Window_QuestData.drawQuestData (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_QuestJournal.js:4020:26)
+    at Window_QuestData.refresh (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_QuestJournal.js:3984:10)
+    at Window_QuestData.updateCountdown (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_QuestJournal.js:4113:36)
+    at Window_QuestData.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_QuestJournal.js:4106:8)
+    at chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_core.js:7035:19
+    at Array.forEach (<anonymous>)
+    at WindowLayer.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_core.js:7033:19)
+    at chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:262:19
+----------
+ERROR!
+Using AlphaABS [Build: 1232 ; on MV  1.6.1]
+----------
+ERROR!
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Window_QuestData.getQuestDescription (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_QuestJournal.js:4055:15)
+    at Window_QuestData.drawQuestData (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_QuestJournal.js:4020:26)
+    at Window_QuestData.refresh (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_QuestJournal.js:3984:10)
+    at Window_QuestData.updateCountdown (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_QuestJournal.js:4113:36)
+    at Window_QuestData.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_QuestJournal.js:4106:8)
+    at chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_core.js:7035:19
+    at Array.forEach (<anonymous>)
+    at WindowLayer.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_core.js:7033:19)
+    at chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:262:19
+----------
