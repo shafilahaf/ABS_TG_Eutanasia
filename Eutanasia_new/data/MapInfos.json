@@ -53,6 +53,6 @@ null,
 {"id":51,"expanded":false,"name":"Test","order":2,"parentId":2,"scrollX":655.2,"scrollY":368.8},
 {"id":52,"expanded":false,"name":"INTRO","order":53,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":53,"expanded":false,"name":"Camp Sven","order":50,"parentId":47,"scrollX":655.2,"scrollY":372.8},
-{"id":54,"expanded":true,"name":"Tutorial","order":54,"parentId":0,"scrollX":648.8,"scrollY":468.8},
+{"id":54,"expanded":true,"name":"Tutorial","order":54,"parentId":0,"scrollX":648.8,"scrollY":587.2},
 {"id":55,"expanded":false,"name":"Inside","order":55,"parentId":54,"scrollX":832,"scrollY":624}
 ]
